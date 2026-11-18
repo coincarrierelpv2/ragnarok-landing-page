@@ -1,0 +1,24 @@
+{
+  "hero": "https://cdnimages.awselbcombine.com/public_images/auto_system_upload/2026/03/1774337750712-3.png",
+  "swordman": "https://cdnimages.awselbcombine.com/public_images/auto_system_upload/2026/03/1774580639207-94.png",
+  "mage": "https://cdnimages.awselbcombine.com/public_images/auto_system_upload/2026/03/1774580638210-88.png",
+  "archer": "https://cdnimages.awselbcombine.com/public_images/auto_system_upload/2026/03/1774580639211-74.png",
+  "logo": "https://cdnimages.awselbcombine.com/public_images/auto_system_upload/2026/04/1776313976600-48.png",
+  "trailer": "https://www.youtube.com/watch?v=s9tQLg2QQUQ",
+  "trailer-poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257315994/1600ab91c7f29280909c4c62ea1ac2e7cd569153/movie_600x337.jpg?t=1776247405",
+  "game-and-requirements": "https://store.steampowered.com/app/4212480/Ragnarok_The_New_World/",
+  "artwork-source-page": "https://auto-page.gnjoy.hk/rothenewworldpre/",
+  "review-snapshot": "TAF 1 brief, 10 November 2026; historical, not live data",
+  "animated-hero": "https://d2ex983vwhbc52.cloudfront.net/auto_system_upload/2026/04/1776073070222-48.mov",
+  "baphomet": {
+    "page": "https://ragnarokonline.gungho.jp/special/fankit/",
+    "asset": "https://ragnarokonline.gungho.jp/special/fankit/assets/img/monster/mvp-monster/mob_baphomet.png",
+    "note": "Official Japanese Ragnarok Online full-body artwork; 900x900 transparent PNG. Not specific to The New World. Selected by the user."
+  },
+  "eddga": {
+    "page": "https://ragnarokonline.gungho.jp/special/fankit/",
+    "asset": "https://ragnarokonline.gungho.jp/special/fankit/assets/img/monster/mvp-monster/mob_eddga.png",
+    "note": "Official Japanese Ragnarok Online full-body artwork; 900x900 transparent PNG. Not specific to The New World. Selected by the user."
+  },
+  "trailer-cover": "https://cdnimages.awselbcombine.com/public_images/auto_system_upload/2026/03/1774337750712-3.png"
+}
